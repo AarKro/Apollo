@@ -30,7 +30,7 @@
     "@discordx/utilities": "^2.0.0",
     "@solyarisoftware/voskjs": "^1.2.8",
     "discord.js": "^13.2.0",
-    "discordx": "^7.0.0",
+    "discordx": "^9.1.15",
     "ffmpeg-static": "^4.4.0",
     "fuse.js": "^6.4.6",
     "node-crc": "^2.0.11",
